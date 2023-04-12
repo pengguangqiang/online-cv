@@ -38,13 +38,13 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: 徒步/跑步
           link:
 
-        - item: Snowboarding
+        - item: 羽毛球
           link:
 
-        - item: Cooking
+        - item: 露营
           link:
 
 career-profile:
@@ -59,19 +59,8 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
+      - degree: 统招本科
+        university: 江苏科技大学
         time: 2007 - 2011
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -81,11 +70,22 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
+      - degree: 高中
+        university: 江苏省响水中学
+        time: 2004 - 2007
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
 experiences:
-    title: Experiences
+    title: 工作经验
     info:
-      - role: Lead Developer
-        time: 2015 - Present
+      - role: 招聘主管
+        time: 2013/07 - Present
         company: Startup Hubs, San Francisco
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -99,9 +99,9 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: 招聘
+        time: 2011/05 - 2013/07
+        company: 仁宝光电科技有限公司
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -110,15 +110,13 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: 人力资源专员
+        time: 2011/05 - 2013/07
+        company: 仁宝光电科技（昆山）有限公司
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          负责招聘与培训模块；
+          招聘部分主要开发与维护合适的招聘渠道资源，执行甄选，面试，录用入职等工作，完成年度招聘计划；
+          实施并优化公司年度培训计划，涉及新员工和在职员工和特殊技能派外培训执行与修正。
             - Bullet point
             - Bullet point
 projects:
